@@ -1,8 +1,8 @@
 {
-  "name": "serverless-lift",
+  "name": "@lunara/lift",
   "license": "MIT",
-  "homepage": "https://github.com/getlift/lift",
-  "repository": "https://github.com/getlift/lift",
+  "homepage": "https://github.com/lunara-capital/lift",
+  "repository": "https://github.com/lunara-capital/lift",
   "description": "Lift",
   "dependencies": {
     "@aws-cdk/aws-apigatewayv2": "^1.110.1",
